@@ -1,0 +1,31 @@
+[33mcommit 0ee90919eb184615d98dc4be4f9a94dc71b4aa14[m[33m ([m[1;36mHEAD -> [m[1;32mpatch/README.md[m[33m, [m[1;31morigin/patch/README.md[m[33m)[m
+Author: juliansms <juliansantiago985@gmail.com>
+Date:   Sun Jan 15 10:04:07 2023 -0500
+
+    Revert "Undobracadabra"
+    
+    This reverts commit 66e0dee13d63ef8cd4394dee1e8de3e602c8131b.
+
+[33mcommit 66e0dee13d63ef8cd4394dee1e8de3e602c8131b[m
+Author: juliansms <juliansantiago985@gmail.com>
+Date:   Sun Jan 15 10:02:50 2023 -0500
+
+    Undobracadabra
+
+[33mcommit 7f5db000603c344c3eef2fe831fb0005c560c153[m
+Author: juliansms <juliansantiago985@gmail.com>
+Date:   Sun Jan 15 09:57:47 2023 -0500
+
+    Abracadabra
+
+[33mcommit f41b0665bba2260baefc1de4b80528b8570e2a51[m
+Author: juliansms <juliansantiago985@gmail.com>
+Date:   Sun Jan 15 09:56:10 2023 -0500
+
+    Abracadabra
+
+[33mcommit 887f793f74093a9532bebba911bf1d8331fb5dba[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: juliansms <90361168+juliansms@users.noreply.github.com>
+Date:   Sun Jan 15 09:19:32 2023 -0500
+
+    Initial commit
